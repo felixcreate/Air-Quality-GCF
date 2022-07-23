@@ -1,0 +1,17 @@
+{
+  "timestamp": 0,
+  "start": 0,
+  "end": 0,
+  "readings": {
+    "temperature": 0,
+    "humidity": 0,
+    "pressure": 0,
+    "particulate": {
+      "pm1.0": 0,
+      "pm2.5": 0,
+      "pm10.0": 0
+    },
+    "spl": 0,
+    "frequency": 0
+  }
+}
